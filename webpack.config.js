@@ -4,7 +4,7 @@ const testPlugin = require("./src/myPlugin/testPlugin.js");
 const config = {
   entry: './example/index.js',
   output: {
-    filename: './build/mian.js'
+    filename: './mian.js'
   },
   mode:'development',
   module: {
